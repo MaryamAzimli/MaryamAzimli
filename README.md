@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in Bilkent university as a freshman
+I’m currently ### studying in Bilkent university as a freshman
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
