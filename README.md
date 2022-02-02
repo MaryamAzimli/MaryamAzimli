@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Maryam and I am 17.
+### My name is Maryam and I am 18.
 ### Freshman in Bilkent university
 ### I’m currently learning JAVA
 <!--
