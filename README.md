@@ -1,6 +1,9 @@
 Hi there 👋
+
 My name is Maryam, and I am 19.
+
 Junior at Bilkent University
+
 I’m currently working with Java, C++, and Python languages
 <!--
 **MaryamAzimli/MaryamAzimli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
