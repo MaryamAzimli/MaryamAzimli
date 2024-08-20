@@ -2,7 +2,8 @@ Hi there 👋
 
 My name is Maryam, and I am 20.
 
-Senior Computer Engineering student at Bilkent University
+Senior Computer Engineering student at Bilkent University.
+
 My core skill set includes:
 
   - Node.js & Express.js: I've built robust backend applications using Node.js and Express.js, focusing on creating efficient APIs and server-side logic.
