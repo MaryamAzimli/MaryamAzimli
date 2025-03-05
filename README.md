@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Maryam, and I am 20.
+My name is Maryam.
 
 Senior Computer Engineering student at Bilkent University.
 
